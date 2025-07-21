@@ -1,6 +1,6 @@
 //CrimeScene class is inherited from Room
 //Composition Relation between class CrimeScene and class Bedsheet,Pillow
-class CrimeScene extends Room implements utilityMethods {
+class CrimeScene extends Room {
     static  boolean CrimeScenekey;
     static boolean crimesceneclue;
     static boolean isUnlocked=false;
@@ -27,12 +27,12 @@ class CrimeScene extends Room implements utilityMethods {
             System.out.println("                        - "+ clue);
         }
     }
-    @Override
+    @Override //overriding interface method
     public void enterRoom(Player player){
         boolean bed = false;
         boolean pillow = false;
 
-        //check whether the key to crime scene is found or not
+        //check whether the key to the crime scene is found or not
         if (!CrimeScene.CrimeScenekey) {
             System.out.println("STOP! The door is locked. Go Find the key!");
             utility.hallway();

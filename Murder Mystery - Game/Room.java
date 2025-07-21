@@ -1,6 +1,6 @@
 //Base class for rooms in the game
 // It is an abstract class which is inherited by Kitchen,TheGreatHall,CrimeScene classes
-abstract class Room{
+abstract class Room implements utilityMethods{
     //attributes
     String name;
     String theme;

@@ -1,6 +1,6 @@
 //Kitchen class is inherited from Room
 //Composition Relation between  Kitchen,Chef and BurningPot class
-class Kitchen extends Room implements utilityMethods{
+class Kitchen extends Room {
     static boolean chefclue;
     BurningPot burningPot;
     Chef timothy;

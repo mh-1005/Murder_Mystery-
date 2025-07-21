@@ -1,6 +1,6 @@
 //TheGreatHall class is inherited from Room
 //Composition Relation between class TheGreatHall and class Painter,Envelope,JewelBox
-class TheGreatHall extends Room implements utilityMethods{
+class TheGreatHall extends {
     static boolean greathallclue;
     Envelope envelope;
     JewelBox jewelbox;
@@ -27,7 +27,7 @@ class TheGreatHall extends Room implements utilityMethods{
             System.out.println("                        - "+ clue);
         }
     }
-    @Override
+    @Override // overriding interface method
     public void enterRoom(Player player){
         utilityMethods.delayed(500);
         System.out.println();

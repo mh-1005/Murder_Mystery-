@@ -13,7 +13,7 @@ I built this game in Java to put my object-oriented programming knowledge into a
 I’ve always been a fan of riddles and clue-based games as they’ve made me curious about what’s really happening behind the scenes. So when I started learning programming, I knew I had to build this game. Also, I’ve  always enjoyed storytelling and this project gave me the chance to bring both together. This game is everything I’ve learned so far in programming with twists, logic, and a murder mystery storyline.
 
 # 🔍 Game Description
-- As a player, you step into the shoes of a detective who is tasked with solving a mysterious murder that took place inside a grand mansion🏰🔪🩸  
+- As a player, you step into the shoes of a detective who is tasked with solving a mysterious murder case that took place inside a grand mansion🏰🔪🩸  
 - The game starts in the main hallway, and from there, you can explore any of the following rooms:  
 1. Crime Scene
 2. Kitchen
@@ -22,7 +22,7 @@ I’ve always been a fan of riddles and clue-based games as they’ve made me cu
 
 - Each room has shady characters and suspicious items that might help you connect the dots.
 - By the end of the game, you'll have enough clues to accuse the suspect.
-- If you get it write, you will win the game 🏆
+- If you get it right, you will win the game 🏆
 
 
 **Here’s a short video that gives you a glimpse of how the game plays**  

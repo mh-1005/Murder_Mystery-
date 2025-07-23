@@ -7,7 +7,11 @@ I built this game in Java to put my object-oriented programming knowledge into a
 • Open/Closed           ---->  The code is easy to extend with new features, without modification of existing classes.  
 • Liskov Substitution   ----> Subtypes are replaced by basetypes.   
 • Interface Segregation ---->  Every class implements a specific interface without unnecessary behaviours.   
-• Dependency Inversion  ---->  Abstract classes are created to avoid dependence on concrete classes.  
+• Dependency Inversion  ---->  Abstract classes are created to avoid dependence on concrete classes.    
+
+# UML class Diagram 
+Here is a visual overview of the main classes and how they relate to each other in the project.
+![Image](https://github.com/user-attachments/assets/1dac8bdf-e658-456d-8a05-ddba36c7ba3f)
 
 # Why I made this Game? 
 I’ve always been a fan of riddles and clue-based games as they’ve made me curious about what’s really happening behind the scenes. So when I started learning programming, I knew I had to build this game. Also, I’ve  always enjoyed storytelling and this project gave me the chance to bring both together. This game is everything I’ve learned so far in programming with twists, logic, and a murder mystery storyline.

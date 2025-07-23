@@ -10,7 +10,7 @@ I built this game in Java to put my object-oriented programming knowledge into a
 • Dependency Inversion  ---->  Abstract classes are created to avoid dependence on concrete classes.    
 
 # UML class Diagram 
-Here is a visual overview of the main classes and how they relate to each other in the project.  
+Here is a visual overview of the main classes and how they relate to each other in the project.         
 ![Image](https://github.com/user-attachments/assets/1dac8bdf-e658-456d-8a05-ddba36c7ba3f)
 
 # Why I made this Game? 

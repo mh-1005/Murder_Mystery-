@@ -7,9 +7,9 @@ class Utility {
     Player player;
 
     //Objects of classes
-    Kitchen kitchen;
-    TheGreatHall ThegreatHall;
-    CrimeScene Crimescene;
+    Room kitchen;
+    Room ThegreatHall;
+    Room Crimescene;
 
     // static variable of Utility class
     static boolean gameEnd;
